@@ -8,4 +8,4 @@ This project uses Linear Regression to predict student scores based on study hou
 - Scikit-learn
 
 ## Outcome
-Gain experience in supervised learning and model evaluation
+Predict future scores using historical data.
